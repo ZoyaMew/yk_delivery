@@ -1,0 +1,134 @@
+{
+  "homeScreen": {
+    "welcome": "Welcome",
+    "earnings": "Earnings",
+    "Today": "Today",
+    "Today_Order": "Today's Order",
+    "This_Week": "This Week",
+    "This_Month": "This Month",
+    "Active_Order": "Active Order",
+    "Start_Today_Task": "Start Today’s Task",
+    "Total_Order": "Total Order",
+    "Today's_Order": "Today's Order",
+    "This_Week_Order": "This Week Order",
+    "This_Month_Order": "This Month Order",
+    "Total_Complete_Order": "Total Complete Order"
+  },
+  "inventory_list": {
+    "Choose_Date": "Choose Date",
+    "Open_Calendar": "Click To Open Calendar",
+    "SUBMIT": "SUBMIT",
+    "Inventory_List": "Inventory List",
+    "Complete": "Complete",
+    "Product_Name": "Product Name",
+    "Variant": "Variant",
+    "Quantity": "Quantity",
+    "UOM": "UOM"
+  },
+  "package_listing": {
+    "Package_Listing": "Package Listing",
+    "Name": "Name",
+    "Address": "Address",
+    "Payment_Method": "Payment Method",
+    "Start_Delivery": "Start Delivery"
+  },
+  "package_details": {
+    "Package_Details": "Package Details",
+    "Name": "Name",
+    "Address": "Address",
+    "Payment_Method": "Payment Method",
+    "Inventory_List": "Inventory List",
+    "Complete": "Complete",
+    "Product_Name": "Product Name",
+    "Variant": "Variant",
+    "Quantity": "Quantity",
+    "UOM": "UOM"
+  },
+  "order_listing": {
+    "welcome": "Welcome",
+    "Cancelled": "Cancelled",
+    "Delivered": "Delivered",
+    "Undelivered": "Undelivered",
+    "order_listing": "Order Listing",
+    "View_Map": "View Map",
+    "Collected_Cash": "Collected Cash",
+    "Name": "Name",
+    "Address": "Address",
+    "Payment_Method": "Payment Method"
+  },
+  "order_details": {
+    "Customer_Details": "Customer Details",
+    "Get_Direction": "Get Direction",
+    "Order_Details": "Order Details",
+    "Order_ID": "Order ID",
+    "Total": "Total",
+    "Discount": "Discount",
+    "coupon_discount": "Coupon discount",
+    "Delivery_Charge": "Delivery Charge",
+    "Grand_Total": "Grand Total",
+    "Balance_Amount": "Balance Amount",
+    "Payment_Mode": "Payment Mode",
+    "Remarks": "Remarks",
+    "Order_Status": "Order Status",
+    "View_Details": "View Details",
+    "Cancel": "Cancel",
+    "Confirm": "Confirm",
+    "Qty": "Qty"
+  },
+  "cancellation_details": {
+    "reason_cancellation": "Reason For Cancellation",
+    "Remarks": "Remarks",
+    "Cancel_Images": "Cancel Images",
+    "Close": "Close"
+  },
+  "cancellation_order": {
+    "reason_cancellation": "Reason For Cancellation",
+    "Remarks": "Remarks",
+    "Upload_Images": "Upload Images",
+    "SUBMIT": "SUBMIT"
+  },
+  "confirm_details": {
+    "payment_method": "Payment Method",
+    "payment_date": "Payment Date",
+    "payment_time": "Payment Time",
+    "payment_remark": "Payment Remark",
+    "delivery_proof": "Delivery Proof",
+    "payment_proof": "Payment Proof",
+    "signature": "Signature",
+    "Close": "Close"
+  },
+  "payment_confirmed": {
+    "collectable_price": "Collectable Price",
+    "payment_confirmation": "Payment Confirmation",
+    "Payment_Mode": "Payment Mode",
+    "ScanQr": "Scan the QR code for payment",
+    "payment_proof": "Payment Proof",
+    "delivery_proof": "Delivery Proof",
+    "Remarks": "Remarks",
+    "signature": "Signature",
+    "Complete": "Complete"
+  },
+  "profile": {
+    "Name": "Name",
+    "Phone": "Phone",
+    "Email": "Email",
+    "Logout": "Logout",
+    "Edit_Details": "Edit Details"
+  },
+  "edit_profile": {
+    "Name": "Name",
+    "Phone": "Phone",
+    "save": "Save",
+    "welcome": "Welcome"
+  },
+  "order_history":{
+    "Choose_Date": "Choose Date",
+    "Open_Calendar": "Click To Open Calendar",
+    "SUBMIT": "SUBMIT",
+    "orderList":"Order List",
+    "Name": "Name",
+    "Address": "Address",
+    "Payment_Method": "Payment Method"
+  }
+
+}

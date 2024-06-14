@@ -1,0 +1,133 @@
+{
+    "homeScreen": {
+        "welcome": "欢迎",
+        "earnings": "收入",
+        "Today": "今天",
+        "Today_Order": "今天的订单",
+        "This_Week": "本周",
+        "This_Month": "本月",
+        "Active_Order": "活动订单",
+        "Start_Today_Task": "开始今天的任务",
+        "Total_Order": "总订单",
+        "Today's_Order": "今日订单",
+        "This_Week_Order": "本周订单",
+        "This_Month_Order": "本月订单",
+        "Total_Complete_Order": "总完成订单"
+    },
+    "inventory_list": {
+        "Choose_Date": "选择日期",
+        "Open_Calendar": "点击打开日历",
+        "SUBMIT": "提交",
+        "Inventory_List": "库存清单",
+        "Complete": "完成",
+        "Product_Name": "产品名称",
+        "Variant": "变种",
+        "Quantity": "数量",
+        "UOM": "计量单位"
+    },
+    "package_listing": {
+        "Package_Listing": "包裹清单",
+        "Name": "姓名",
+        "Address": "地址",
+        "Payment_Method": "支付方式",
+        "Start_Delivery": "开始配送"
+    },
+    "package_details": {
+        "Package_Details": "包裹详情",
+        "Name": "姓名",
+        "Address": "地址",
+        "Payment_Method": "付款方式",
+        "Inventory_List": "库存清单",
+        "Complete": "完成",
+        "Product_Name": "产品名称",
+        "Variant": "变种",
+        "Quantity": "数量",
+        "UOM": "计量单位"
+    },
+    "order_listing": {
+        "welcome": "欢迎",
+        "Cancelled": "已取消",
+        "Delivered": "已交付",
+        "Undelivered": "未交付",
+        "order_listing": "订单列表",
+        "View_Map": "查看地图",
+        "Collected_Cash": "已收到现金",
+        "Name": "姓名",
+        "Address": "地址",
+        "Payment_Method": "付款方式"
+    },
+    "order_details": {
+        "Customer_Details": "顾客详情",
+        "Get_Direction": "获取方向",
+        "Order_Details": "订单详情",
+        "Order_ID": "订单编号",
+        "Total": "总计",
+        "Discount": "折扣",
+        "coupon_discount": "优惠券折扣",
+        "Delivery_Charge": "送货费",
+        "Grand_Total": "总计金额",
+        "Balance_Amount": "余额金额",
+        "Payment_Mode": "支付方式",
+        "Remarks": "备注",
+        "Order_Status": "订单状态",
+        "View_Details": "查看详情",
+        "Cancel": "取消",
+        "Confirm": "确认",
+        "Qty": "数量"
+    },
+    "cancellation_details": {
+        "reason_cancellation": "取消原因",
+        "Remarks": "备注",
+        "Cancel_Images": "取消图片",
+        "Close": "关闭"
+    },
+    "cancellation_order": {
+        "reason_cancellation": "取消原因",
+        "Remarks": "备注",
+        "Upload_Images": "上传图片",
+        "SUBMIT": "提交"
+    },
+    "confirm_details": {
+        "payment_method": "付款方式",
+        "payment_date": "付款日期",
+        "payment_time": "付款时间",
+        "payment_remark": "付款备注",
+        "delivery_proof": "交付证明",
+        "payment_proof": "付款证明",
+        "signature": "签名",
+        "Close": "关闭"
+    },
+    "payment_confirmed": {
+        "collectable_price": "可收款金额",
+        "payment_confirmation": "付款确认",
+        "Payment_Mode": "付款方式",
+        "ScanQr": "扫描二维码进行付款",
+        "payment_proof": "付款凭证",
+        "delivery_proof": "交付凭证",
+        "Remarks": "备注",
+        "signature": "签名",
+        "Complete": "完成"
+    },
+    "profile": {
+        "Name": "姓名",
+        "Phone": "电话",
+        "Email": "电子邮件",
+        "Logout": "登出",
+        "Edit_Details": "编辑详情"
+    },
+    "edit_profile": {
+        "Name": "姓名",
+        "Phone": "电话",
+        "save": "保存"
+      },
+      "order_history":{
+        "Choose_Date": "选择日期",
+        "Open_Calendar": "点击以打开日历",
+        "SUBMIT": "提交",
+        "orderList":"订单列表",
+        "Name": "姓名",
+        "Address": "地址",
+        "Payment_Method": "支付方式"
+    }
+    
+}
